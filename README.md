@@ -15,7 +15,7 @@ Track budget of expenses when on the road and not always availble to a network c
 ## Installation
 
 - Go to website at this link: [progressive-budget](https://evening-savannah-22284.herokuapp.com)
-- Mock up of site [!mockup](./assets/img/progressiveBudget.png)
+- Mock up of site [mockup](./assets/img/progressiveBudget.png)
 
 ## Usage
 
